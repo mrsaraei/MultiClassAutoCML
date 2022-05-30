@@ -1,5 +1,5 @@
 # MultiClassAutoCML
-**Automatic Comparative Machine Learning for Multiclass**
+**Automatic Comparative Machine Learning for Multiclass Classification**
 
 The model releases the following material after implementation:
 
